@@ -4,10 +4,10 @@ Eide Bailly Future Consultants Git Training
 Before starting, make sure you have the project cloned into VSCode
 
 Click "commits" (see highlighted area in screenshot below)
-![githomework1](https://github.com/cellisEB/FCGitTraining/assets/115719991/a9898903-d8da-46e3-944d-df3a0f4ad60a)
+![githomework1](https://github.com/cellisEB/FCGitTraining/assets/115719991/57b4fe3b-f5f9-40c3-a063-78e76a39289f)
 
 Click the "copy button" on my commit "Merge pull request #2" (highlighed in screenshot below)
-![githomework2](https://github.com/cellisEB/FCGitTraining/assets/115719991/210f7c76-0ed5-4ba0-beea-84a3396df711)
+![githomework2](https://github.com/cellisEB/FCGitTraining/assets/115719991/2d579b50-e739-420f-bdfc-09699ee6e42d)
 
 In the VSCode project, open a terminal and checkout that commit "git checkout {paste commit hash}"
 
